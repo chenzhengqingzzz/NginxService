@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+.a{
+    width: 16vw;
+    height: 25vh;
+    text-align: center;
+    margin: 9px;
+}
